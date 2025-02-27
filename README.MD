@@ -14,7 +14,9 @@ I am using a Lenovo M720Q with EFI (OpenCore 1.0.3), which allows me to install 
 
 
 macOS version: 15.3.1
+
 OpenCore version: 1.0.3
+
 SMBIOS : Macmini8,1
 
 ![About Mac](/screenshots/img1.png)

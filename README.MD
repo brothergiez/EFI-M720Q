@@ -1,4 +1,4 @@
-## Description
+## Lenovo ThinkCentre M720Q Hackintosh (2025)
 I am using a Lenovo M720Q with EFI (OpenCore 1.0.3), which allows me to install macOS on this device. The version of macOS I am using is 15.3.1, which is fully compatible with this configuration. The integrated graphics on my computer can output display through two interfaces, such as HDMI and DisplayPort, without issues. I do not use a discrete graphics card, so this computer relies solely on integrated graphics. Both Bluetooth and Wi-Fi features are working normally after I performed the installation. Below is a brief explanation of the specifications of my hardware:
 
 ## Specification

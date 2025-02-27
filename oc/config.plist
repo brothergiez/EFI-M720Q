@@ -31,23 +31,32 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>IgQAeQA=</data>
+				<data>
+				IgQAeQA=
+				</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data></data>
+				<data>
+				</data>
 				<key>OemTableId</key>
-				<data></data>
+				<data>
+				</data>
 				<key>Replace</key>
-				<data>IgAAeQA=</data>
+				<data>
+				IgAAeQA=
+				</data>
 				<key>ReplaceMask</key>
-				<data></data>
+				<data>
+				</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>RFNEVA==</data>
+				<data>
+				RFNEVA==
+				</data>
 			</dict>
 			<dict>
 				<key>Base</key>
@@ -61,23 +70,32 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>IgQAeQA=</data>
+				<data>
+				IgQAeQA=
+				</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data></data>
+				<data>
+				</data>
 				<key>OemTableId</key>
-				<data></data>
+				<data>
+				</data>
 				<key>Replace</key>
-				<data>IgAAeQA=</data>
+				<data>
+				IgAAeQA=
+				</data>
 				<key>ReplaceMask</key>
-				<data></data>
+				<data>
+				</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>RFNEVA==</data>
+				<data>
+				RFNEVA==
+				</data>
 			</dict>
 			<dict>
 				<key>Base</key>
@@ -91,23 +109,32 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>IgABeQA=</data>
+				<data>
+				IgABeQA=
+				</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data></data>
+				<data>
+				</data>
 				<key>OemTableId</key>
-				<data></data>
+				<data>
+				</data>
 				<key>Replace</key>
-				<data>IgAAeQA=</data>
+				<data>
+				IgAAeQA=
+				</data>
 				<key>ReplaceMask</key>
-				<data></data>
+				<data>
+				</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>RFNEVA==</data>
+				<data>
+				RFNEVA==
+				</data>
 			</dict>
 			<dict>
 				<key>Base</key>
@@ -121,23 +148,31 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>R1BSVwI=</data>
+				<data>
+				R1BSVwI=
+				</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data></data>
+				<data>
+				</data>
 				<key>OemTableId</key>
-				<data></data>
+				<data>
+				</data>
 				<key>Replace</key>
-				<data>WFBSVwI=</data>
+				<data>
+				WFBSVwI=
+				</data>
 				<key>ReplaceMask</key>
-				<data></data>
+				<data>
+				</data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data></data>
+				<data>
+				</data>
 			</dict>
 		</array>
 		<key>Quirks</key>
@@ -220,43 +255,81 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>BwCbPg==</data>
+				<data>
+				BwCbPg==
+				</data>
 				<key>device-id</key>
-				<data>mz4AAA==</data>
+				<data>
+				mz4AAA==
+				</data>
 				<key>disable-external-gpu</key>
-				<data>AQAAAA==</data>
+				<data>
+				AQAAAA==
+				</data>
 				<key>framebuffer-con0-busid</key>
-				<data>AQAAAA==</data>
+				<data>
+				AQAAAA==
+				</data>
 				<key>framebuffer-con0-enable</key>
-				<data>AQAAAA==</data>
+				<data>
+				AQAAAA==
+				</data>
 				<key>framebuffer-con0-pipe</key>
-				<data>EgAAAA==</data>
+				<data>
+				EgAAAA==
+				</data>
 				<key>framebuffer-con0-type</key>
-				<data>AAgAAA==</data>
+				<data>
+				AAgAAA==
+				</data>
 				<key>framebuffer-con1-busid</key>
-				<data>AgAAAA==</data>
+				<data>
+				AgAAAA==
+				</data>
 				<key>framebuffer-con1-enable</key>
-				<data>AQAAAA==</data>
+				<data>
+				AQAAAA==
+				</data>
 				<key>framebuffer-con1-pipe</key>
-				<data>EgAAAA==</data>
+				<data>
+				EgAAAA==
+				</data>
 				<key>framebuffer-con1-type</key>
-				<data>AAgAAA==</data>
+				<data>
+				AAgAAA==
+				</data>
 				<key>framebuffer-con2-busid</key>
-				<data>AAAAAA==</data>
+				<data>
+				AAAAAA==
+				</data>
 				<key>framebuffer-con2-enable</key>
-				<data>AQAAAA==</data>
+				<data>
+				AQAAAA==
+				</data>
 				<key>framebuffer-con2-index</key>
-				<data>/////w==</data>
+				<data>
+				/////w==
+				</data>
 				<key>framebuffer-con2-pipe</key>
-				<data>EgAAAA==</data>
+				<data>
+				EgAAAA==
+				</data>
 				<key>framebuffer-con2-type</key>
-				<data>AAgAAA==</data>
+				<data>
+				AAgAAA==
+				</data>
 				<key>framebuffer-fbmem</key>
-				<data>AACQAA==</data>
+				<data>
+				AACQAA==
+				</data>
 				<key>framebuffer-patch-enable</key>
-				<data>AQAAAA==</data>
+				<data>
+				AQAAAA==
+				</data>
 				<key>framebuffer-stolenmem</key>
-				<data>AAAwAQ==</data>
+				<data>
+				AAAwAQ==
+				</data>
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
 			</dict>
@@ -544,9 +617,11 @@
 		<key>Emulate</key>
 		<dict>
 			<key>Cpuid1Data</key>
-			<data></data>
+			<data>
+			</data>
 			<key>Cpuid1Mask</key>
-			<data></data>
+			<data>
+			</data>
 			<key>DummyPowerManagement</key>
 			<false/>
 			<key>MaxKernel</key>
@@ -696,9 +771,11 @@
 			<key>HaltLevel</key>
 			<integer>2147483648</integer>
 			<key>PasswordHash</key>
-			<data></data>
+			<data>
+			</data>
 			<key>PasswordSalt</key>
-			<data></data>
+			<data>
+			</data>
 			<key>ScanPolicy</key>
 			<integer>0</integer>
 			<key>SecureBootModel</key>
@@ -723,7 +800,9 @@
 				<key>LineControl</key>
 				<integer>3</integer>
 				<key>PciDeviceInfo</key>
-				<data>/w==</data>
+				<data>
+				/w==
+				</data>
 				<key>RegisterAccessWidth</key>
 				<integer>8</integer>
 				<key>RegisterBase</key>
@@ -750,9 +829,13 @@
 			<key>4D1EDE05-38C7-4A6A-9CC6-4BCCA8B38C14</key>
 			<dict>
 				<key>DefaultBackgroundColor</key>
-				<data>AAAAAA==</data>
+				<data>
+				AAAAAA==
+				</data>
 				<key>UIScale</key>
-				<data>AQ==</data>
+				<data>
+				AQ==
+				</data>
 			</dict>
 			<key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
 			<dict>
@@ -763,22 +846,32 @@
 				<key>revpatch</key>
 				<string>sbvmm,diskread</string>
 				<key>rtc-blacklist</key>
-				<data></data>
+				<data>
+				</data>
 			</dict>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>SystemAudioVolume</key>
-				<data>Rg==</data>
+				<data>
+				Rg==
+				</data>
 				<key>bluetoothExternalDongleFailed</key>
-				<data>AA==</data>
+				<data>
+				AA==
+				</data>
 				<key>bluetoothInternalControllerInfo</key>
-				<data>AAAAAAAAAAAAAAAAAAA=</data>
+				<data>
+				AAAAAAAAAAAAAAAAAAA=
+				</data>
 				<key>boot-args</key>
 				<string>igfxonln=1 alcid=13 watchdog=0 agdpmod=vit9696 -wegnoegpu igfxagdc=0 keepsyms=1 swd_panic=1</string>
 				<key>csr-active-config</key>
-				<data>7w8AAA==</data>
+				<data>
+				7w8AAA==
+				</data>
 				<key>prev-lang:kbd</key>
-				<data></data>
+				<data>
+				</data>
 				<key>run-efi-updater</key>
 				<string>No</string>
 			</dict>
@@ -843,13 +936,15 @@
 			<key>AdviseFeatures</key>
 			<true/>
 			<key>MLB</key>
-			<string>C07128403QXKXPGAD</string>
+			<string>C07908100GUKXPG1H</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>uOhWql1E</data>
+			<data>
+			5MY9i80N
+			</data>
 			<key>SpoofVendor</key>
 			<false/>
 			<key>SystemMemoryStatus</key>
@@ -857,9 +952,9 @@
 			<key>SystemProductName</key>
 			<string>Macmini8,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C07G2UZTJYVX</string>
+			<string>C07Y9NZKJYVX</string>
 			<key>SystemUUID</key>
-			<string>D4B76C91-851F-4104-A288-F929E4029CB0</string>
+			<string>B9189E80-7F48-4B04-BD98-3747CB90DEC1</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>

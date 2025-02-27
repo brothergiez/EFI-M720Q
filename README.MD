@@ -6,7 +6,7 @@ I am using a Lenovo M720Q with EFI (OpenCore 1.0.3), which allows me to install 
 | ------ | ------ |
 | CPU | Intel i5-9400T - 6 cores, 3.40GHz |
 | Motherboard | Intel B360 |
-| RAM | 16GB DDR4-2666（8G*2) |
+| RAM | 16GB DDR4-2666 (8G*2) |
 | Audio Chipset | ALC233VB2 |
 | iGPU | Intel® UHD Graphics 630 (DP, HDMI) |
 | OS Disk |  INTEL SSDPEKNW512G8L - 512 GB |
@@ -15,6 +15,10 @@ I am using a Lenovo M720Q with EFI (OpenCore 1.0.3), which allows me to install 
 
 macOS version: 15.3.1
 OpenCore version: 1.0.3
+SMBIOS : Macmini8,1
+
+![About Mac](/screenshots/img1.png)
+![About Mac](/screenshots/img2.png)
 
 ## All Work
 - CPU ✅
